@@ -13,7 +13,7 @@ Proyecto completo que incluye análisis exploratorio (EDA), preparación y model
 
 Estado
 ------
-Completado. El repositorio incluye notebooks, scripts y resultados asociados al modelado y evaluación.
+En desarrollo. El repositorio incluye notebook con EDA, visualizaciones, union de tablas en dataframe principal y matriz de correlacion. Proximamente modelado.
 
 Estructura del repositorio
 --------------------------
