@@ -18,7 +18,7 @@ En desarrollo. El repositorio incluye notebook con EDA, visualizaciones, union d
 Estructura del repositorio
 --------------------------
 - data/                      — Datos .xlsx y .csv (clientes, productos, ventas, detalle_ventas).
-- notebooks/                 — Notebooks de EDA y modelado.
+- analisis-ml-tienda-minorista.ipynb                 — Notebooks de EDA y modelado.
 - models/                    — Modelos entrenados y artefactos (pesos, pipeline, métricas). # proximamente
 - reports/                   — Visualizaciones y reportes de resultados. # proximamente
 - README.md                  — Este archivo.
@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn openpyxl scikit-learn joblib
 
 Uso
 ---
-1. Revisar notebooks en notebooks/ para reproducir EDA y entrenamiento.
+1. Revisar notebooks en analisis-ml-tienda-minorista.ipynb para reproducir EDA y entrenamiento.
 2. Para inferencia rápida: cargar el pipeline guardado en models/ y usar el script de inferencia en scripts/ (si existe).
 3. Todos los resultados y métricas se encuentran en reports/ y models/.
 
