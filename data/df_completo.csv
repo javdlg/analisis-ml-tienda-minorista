@@ -1,0 +1,344 @@
+id_venta,fecha,id_cliente,nombre_cliente,email,medio_pago,id_producto,nombre_producto,cantidad,precio_unitario,importe,ciudad,fecha_alta,categoria
+1,2024-06-19,62,Guadalupe Romero,guadalupe.romero@mail.com,tarjeta,90,Toallas Húmedas x50,1,2902,2902,Carlos Paz,2023-03-03,Limpieza
+2,2024-03-17,49,Olivia Gomez,olivia.gomez@mail.com,qr,82,Aceitunas Negras 200g,5,2394,11970,Rio Cuarto,2023-02-18,Alimentos
+2,2024-03-17,49,Olivia Gomez,olivia.gomez@mail.com,qr,39,Helado Vainilla 1L,5,469,2345,Rio Cuarto,2023-02-18,Alimentos
+2,2024-03-17,49,Olivia Gomez,olivia.gomez@mail.com,qr,70,Fernet 750ml,2,4061,8122,Rio Cuarto,2023-02-18,Alimentos
+2,2024-03-17,49,Olivia Gomez,olivia.gomez@mail.com,qr,22,Medialunas de Manteca,1,2069,2069,Rio Cuarto,2023-02-18,Alimentos
+2,2024-03-17,49,Olivia Gomez,olivia.gomez@mail.com,qr,79,Hamburguesas Congeladas x4,4,2420,9680,Rio Cuarto,2023-02-18,Alimentos
+3,2024-01-13,20,Tomas Acosta,tomas.acosta@mail.com,tarjeta,9,Yerba Mate Suave 1kg,2,3878,7756,Rio Cuarto,2023-01-20,Alimentos
+3,2024-01-13,20,Tomas Acosta,tomas.acosta@mail.com,tarjeta,2,Pepsi 1.5L,2,4973,9946,Rio Cuarto,2023-01-20,Alimentos
+3,2024-01-13,20,Tomas Acosta,tomas.acosta@mail.com,tarjeta,85,Jugo en Polvo Naranja,1,1856,1856,Rio Cuarto,2023-01-20,Alimentos
+4,2024-02-27,36,Martina Molina,martina.molina@mail.com,transferencia,4,Fanta Naranja 1.5L,2,2033,4066,Mendiolaza,2023-02-05,Alimentos
+4,2024-02-27,36,Martina Molina,martina.molina@mail.com,transferencia,23,Bizcochos Salados,5,2380,11900,Mendiolaza,2023-02-05,Alimentos
+5,2024-06-11,56,Bruno Diaz,bruno.diaz@mail.com,tarjeta,86,Jugo en Polvo Limón,4,4090,16360,Rio Cuarto,2023-02-25,Alimentos
+6,2024-05-05,91,Uma Sanchez,uma.sanchez@mail.com,transferencia,25,Galletitas Vainilla,2,4015,8030,Mendiolaza,2023-04-01,Alimentos
+6,2024-05-05,91,Uma Sanchez,uma.sanchez@mail.com,transferencia,31,Mix de Frutos Secos 200g,3,3409,10227,Mendiolaza,2023-04-01,Alimentos
+6,2024-05-05,91,Uma Sanchez,uma.sanchez@mail.com,transferencia,83,Queso Untable 190g,1,1830,1830,Mendiolaza,2023-04-01,Alimentos
+6,2024-05-05,91,Uma Sanchez,uma.sanchez@mail.com,transferencia,59,Chicle Menta,4,3612,14448,Mendiolaza,2023-04-01,Alimentos
+7,2024-05-06,92,Mariana Rodriguez,mariana.rodriguez@mail.com,efectivo,63,Granola 250g,3,4337,13011,Alta Gracia,2023-04-02,Alimentos
+8,2024-01-06,66,Tomas Herrera,tomas.herrera@mail.com,transferencia,53,Lavandina 1L,5,1664,8320,Villa Maria,2023-03-07,Limpieza
+8,2024-01-06,66,Tomas Herrera,tomas.herrera@mail.com,transferencia,18,Queso Rallado 150g,4,3444,13776,Villa Maria,2023-03-07,Alimentos
+8,2024-01-06,66,Tomas Herrera,tomas.herrera@mail.com,transferencia,68,Vino Blanco 750ml,5,2684,13420,Villa Maria,2023-03-07,Alimentos
+9,2024-01-20,86,Diego Torres,diego.torres@mail.com,efectivo,65,Cerveza Rubia 1L,4,2423,9692,Cordoba,2023-03-27,Alimentos
+10,2024-05-28,52,Diego Diaz,diego.diaz@mail.com,qr,36,Dulce de Leche 400g,2,2559,5118,Rio Cuarto,2023-02-21,Alimentos
+10,2024-05-28,52,Diego Diaz,diego.diaz@mail.com,qr,100,Trapo de Piso,4,4854,19416,Rio Cuarto,2023-02-21,Limpieza
+10,2024-05-28,52,Diego Diaz,diego.diaz@mail.com,qr,37,Mermelada de Durazno 400g,3,3196,9588,Rio Cuarto,2023-02-21,Alimentos
+10,2024-05-28,52,Diego Diaz,diego.diaz@mail.com,qr,62,Stevia 100 sobres,1,3848,3848,Rio Cuarto,2023-02-21,Alimentos
+11,2024-04-10,20,Tomas Acosta,tomas.acosta@mail.com,qr,13,Té Verde 20 saquitos,1,2383,2383,Rio Cuarto,2023-01-20,Alimentos
+11,2024-04-10,20,Tomas Acosta,tomas.acosta@mail.com,qr,65,Cerveza Rubia 1L,2,2423,4846,Rio Cuarto,2023-01-20,Alimentos
+11,2024-04-10,20,Tomas Acosta,tomas.acosta@mail.com,qr,28,Papas Fritas Clásicas 100g,1,936,936,Rio Cuarto,2023-01-20,Alimentos
+12,2024-06-28,96,Rocio Gonzalez,rocio.gonzalez@mail.com,efectivo,72,Ron 700ml,2,3876,7752,Cordoba,2023-04-06,Alimentos
+12,2024-06-28,96,Rocio Gonzalez,rocio.gonzalez@mail.com,efectivo,50,Azúcar 1kg,2,727,1454,Cordoba,2023-04-06,Alimentos
+12,2024-06-28,96,Rocio Gonzalez,rocio.gonzalez@mail.com,efectivo,56,Papel Higiénico x4,3,2532,7596,Cordoba,2023-04-06,Limpieza
+12,2024-06-28,96,Rocio Gonzalez,rocio.gonzalez@mail.com,efectivo,87,Sopa Instantánea Pollo,3,1679,5037,Cordoba,2023-04-06,Alimentos
+12,2024-06-28,96,Rocio Gonzalez,rocio.gonzalez@mail.com,efectivo,38,Mermelada de Frutilla 400g,4,1584,6336,Cordoba,2023-04-06,Alimentos
+13,2024-01-24,6,Uma Medina,uma.medina@mail.com,tarjeta,87,Sopa Instantánea Pollo,1,1679,1679,Villa Maria,2023-01-06,Alimentos
+13,2024-01-24,6,Uma Medina,uma.medina@mail.com,tarjeta,81,Aceitunas Verdes 200g,3,2520,7560,Villa Maria,2023-01-06,Alimentos
+13,2024-01-24,6,Uma Medina,uma.medina@mail.com,tarjeta,13,Té Verde 20 saquitos,1,2383,2383,Villa Maria,2023-01-06,Alimentos
+14,2024-04-18,67,Ivana Romero,ivana.romero@mail.com,qr,36,Dulce de Leche 400g,4,2559,10236,Alta Gracia,2023-03-08,Alimentos
+14,2024-04-18,67,Ivana Romero,ivana.romero@mail.com,qr,72,Ron 700ml,5,3876,19380,Alta Gracia,2023-03-08,Alimentos
+14,2024-04-18,67,Ivana Romero,ivana.romero@mail.com,qr,38,Mermelada de Frutilla 400g,3,1584,4752,Alta Gracia,2023-03-08,Alimentos
+14,2024-04-18,67,Ivana Romero,ivana.romero@mail.com,qr,97,Limpiavidrios 500ml,1,872,872,Alta Gracia,2023-03-08,Limpieza
+15,2024-06-27,56,Bruno Diaz,bruno.diaz@mail.com,transferencia,37,Mermelada de Durazno 400g,3,3196,9588,Rio Cuarto,2023-02-25,Alimentos
+16,2024-04-12,2,Nicolas Rojas,nicolas.rojas@mail.com,efectivo,35,Barrita de Cereal 30g,5,4430,22150,Carlos Paz,2023-01-02,Alimentos
+17,2024-02-17,88,Felipe Castro,felipe.castro@mail.com,efectivo,81,Aceitunas Verdes 200g,5,2520,12600,Villa Maria,2023-03-29,Alimentos
+17,2024-02-17,88,Felipe Castro,felipe.castro@mail.com,efectivo,46,Lentejas Secas 500g,5,3036,15180,Villa Maria,2023-03-29,Alimentos
+17,2024-02-17,88,Felipe Castro,felipe.castro@mail.com,efectivo,74,Whisky 750ml,3,2953,8859,Villa Maria,2023-03-29,Alimentos
+18,2024-06-11,81,Camila Ruiz,camila.ruiz@mail.com,qr,33,Chocolate con Leche 100g,2,1255,2510,Carlos Paz,2023-03-22,Alimentos
+18,2024-06-11,81,Camila Ruiz,camila.ruiz@mail.com,qr,4,Fanta Naranja 1.5L,5,2033,10165,Carlos Paz,2023-03-22,Alimentos
+18,2024-06-11,81,Camila Ruiz,camila.ruiz@mail.com,qr,24,Galletitas Chocolate,2,1305,2610,Carlos Paz,2023-03-22,Alimentos
+18,2024-06-11,81,Camila Ruiz,camila.ruiz@mail.com,qr,15,Leche Descremada 1L,3,2538,7614,Carlos Paz,2023-03-22,Alimentos
+18,2024-06-11,81,Camila Ruiz,camila.ruiz@mail.com,qr,22,Medialunas de Manteca,5,2069,10345,Carlos Paz,2023-03-22,Alimentos
+19,2024-06-11,80,Gael Ruiz,gael.ruiz@mail.com,efectivo,38,Mermelada de Frutilla 400g,2,1584,3168,Mendiolaza,2023-03-21,Alimentos
+19,2024-06-11,80,Gael Ruiz,gael.ruiz@mail.com,efectivo,98,Desengrasante 500ml,3,2843,8529,Mendiolaza,2023-03-21,Limpieza
+19,2024-06-11,80,Gael Ruiz,gael.ruiz@mail.com,efectivo,63,Granola 250g,3,4337,13011,Mendiolaza,2023-03-21,Alimentos
+20,2024-01-13,75,Santiago Castro,santiago.castro@mail.com,tarjeta,32,Chocolate Amargo 100g,3,2234,6702,Rio Cuarto,2023-03-16,Alimentos
+21,2024-06-19,10,Karina Acosta,karina.acosta@mail.com,transferencia,76,Pizza Congelada Muzzarella,5,4286,21430,Cordoba,2023-01-10,Alimentos
+21,2024-06-19,10,Karina Acosta,karina.acosta@mail.com,transferencia,35,Barrita de Cereal 30g,1,4430,4430,Cordoba,2023-01-10,Alimentos
+22,2024-05-08,64,Julian Alvarez,julian.alvarez@mail.com,transferencia,9,Yerba Mate Suave 1kg,2,3878,7756,Villa Maria,2023-03-05,Alimentos
+22,2024-05-08,64,Julian Alvarez,julian.alvarez@mail.com,transferencia,28,Papas Fritas Clásicas 100g,3,936,2808,Villa Maria,2023-03-05,Alimentos
+22,2024-05-08,64,Julian Alvarez,julian.alvarez@mail.com,transferencia,24,Galletitas Chocolate,4,1305,5220,Villa Maria,2023-03-05,Alimentos
+23,2024-05-16,78,Emilia Alvarez,emilia.alvarez@mail.com,transferencia,64,Avena Instantánea 250g,4,3953,15812,Villa Maria,2023-03-19,Alimentos
+23,2024-05-16,78,Emilia Alvarez,emilia.alvarez@mail.com,transferencia,83,Queso Untable 190g,4,1830,7320,Villa Maria,2023-03-19,Alimentos
+24,2024-06-14,55,Olivia Ruiz,olivia.ruiz@mail.com,tarjeta,91,Desodorante Aerosol,2,4690,9380,Mendiolaza,2023-02-24,Limpieza
+24,2024-06-14,55,Olivia Ruiz,olivia.ruiz@mail.com,tarjeta,40,Helado Chocolate 1L,5,1215,6075,Mendiolaza,2023-02-24,Alimentos
+25,2024-04-30,13,Ivana Sanchez,ivana.sanchez@mail.com,transferencia,55,Shampoo 400ml,1,1407,1407,Carlos Paz,2023-01-13,Limpieza
+25,2024-04-30,13,Ivana Sanchez,ivana.sanchez@mail.com,transferencia,95,Mascarilla Capilar,5,1581,7905,Carlos Paz,2023-01-13,Limpieza
+25,2024-04-30,13,Ivana Sanchez,ivana.sanchez@mail.com,transferencia,72,Ron 700ml,1,3876,3876,Carlos Paz,2023-01-13,Alimentos
+26,2024-01-23,49,Olivia Gomez,olivia.gomez@mail.com,efectivo,79,Hamburguesas Congeladas x4,2,2420,4840,Rio Cuarto,2023-02-18,Alimentos
+26,2024-01-23,49,Olivia Gomez,olivia.gomez@mail.com,efectivo,86,Jugo en Polvo Limón,1,4090,4090,Rio Cuarto,2023-02-18,Alimentos
+27,2024-02-25,9,Yamila Molina,yamila.molina@mail.com,transferencia,7,Jugo de Manzana 1L,4,3269,13076,Carlos Paz,2023-01-09,Alimentos
+27,2024-02-25,9,Yamila Molina,yamila.molina@mail.com,transferencia,78,Verduras Congeladas Mix,4,4289,17156,Carlos Paz,2023-01-09,Alimentos
+28,2024-05-20,52,Diego Diaz,diego.diaz@mail.com,qr,74,Whisky 750ml,1,2953,2953,Rio Cuarto,2023-02-21,Alimentos
+28,2024-05-20,52,Diego Diaz,diego.diaz@mail.com,qr,91,Desodorante Aerosol,2,4690,9380,Rio Cuarto,2023-02-21,Limpieza
+28,2024-05-20,52,Diego Diaz,diego.diaz@mail.com,qr,72,Ron 700ml,1,3876,3876,Rio Cuarto,2023-02-21,Alimentos
+28,2024-05-20,52,Diego Diaz,diego.diaz@mail.com,qr,18,Queso Rallado 150g,2,3444,6888,Rio Cuarto,2023-02-21,Alimentos
+28,2024-05-20,52,Diego Diaz,diego.diaz@mail.com,qr,27,Alfajor Simple,5,2502,12510,Rio Cuarto,2023-02-21,Alimentos
+29,2024-02-20,49,Olivia Gomez,olivia.gomez@mail.com,qr,58,Caramelos Masticables,1,4752,4752,Rio Cuarto,2023-02-18,Alimentos
+29,2024-02-20,49,Olivia Gomez,olivia.gomez@mail.com,qr,36,Dulce de Leche 400g,2,2559,5118,Rio Cuarto,2023-02-18,Alimentos
+29,2024-02-20,49,Olivia Gomez,olivia.gomez@mail.com,qr,71,Vodka 700ml,4,508,2032,Rio Cuarto,2023-02-18,Alimentos
+29,2024-02-20,49,Olivia Gomez,olivia.gomez@mail.com,qr,27,Alfajor Simple,2,2502,5004,Rio Cuarto,2023-02-18,Alimentos
+29,2024-02-20,49,Olivia Gomez,olivia.gomez@mail.com,qr,66,Cerveza Negra 1L,1,1533,1533,Rio Cuarto,2023-02-18,Alimentos
+30,2024-03-03,93,Gael Rojas,gael.rojas@mail.com,efectivo,49,Harina de Trigo 1kg,4,2512,10048,Alta Gracia,2023-04-03,Alimentos
+30,2024-03-03,93,Gael Rojas,gael.rojas@mail.com,efectivo,78,Verduras Congeladas Mix,3,4289,12867,Alta Gracia,2023-04-03,Alimentos
+30,2024-03-03,93,Gael Rojas,gael.rojas@mail.com,efectivo,82,Aceitunas Negras 200g,4,2394,9576,Alta Gracia,2023-04-03,Alimentos
+30,2024-03-03,93,Gael Rojas,gael.rojas@mail.com,efectivo,7,Jugo de Manzana 1L,1,3269,3269,Alta Gracia,2023-04-03,Alimentos
+31,2024-05-22,19,Uma Silva,uma.silva@mail.com,tarjeta,92,Crema Dental 90g,4,2512,10048,Mendiolaza,2023-01-19,Limpieza
+31,2024-05-22,19,Uma Silva,uma.silva@mail.com,tarjeta,90,Toallas Húmedas x50,3,2902,8706,Mendiolaza,2023-01-19,Limpieza
+31,2024-05-22,19,Uma Silva,uma.silva@mail.com,tarjeta,84,Queso Azul 150g,5,1645,8225,Mendiolaza,2023-01-19,Alimentos
+32,2024-01-30,31,Felipe Ruiz,felipe.ruiz@mail.com,efectivo,72,Ron 700ml,5,3876,19380,Villa Maria,2023-01-31,Alimentos
+32,2024-01-30,31,Felipe Ruiz,felipe.ruiz@mail.com,efectivo,53,Lavandina 1L,4,1664,6656,Villa Maria,2023-01-31,Limpieza
+32,2024-01-30,31,Felipe Ruiz,felipe.ruiz@mail.com,efectivo,17,Queso Cremoso 500g,3,4834,14502,Villa Maria,2023-01-31,Alimentos
+32,2024-01-30,31,Felipe Ruiz,felipe.ruiz@mail.com,efectivo,35,Barrita de Cereal 30g,3,4430,13290,Villa Maria,2023-01-31,Alimentos
+33,2024-02-13,6,Uma Medina,uma.medina@mail.com,efectivo,47,Garbanzos 500g,2,2939,5878,Villa Maria,2023-01-06,Alimentos
+33,2024-02-13,6,Uma Medina,uma.medina@mail.com,efectivo,76,Pizza Congelada Muzzarella,4,4286,17144,Villa Maria,2023-01-06,Alimentos
+33,2024-02-13,6,Uma Medina,uma.medina@mail.com,efectivo,100,Trapo de Piso,1,4854,4854,Villa Maria,2023-01-06,Limpieza
+33,2024-02-13,6,Uma Medina,uma.medina@mail.com,efectivo,91,Desodorante Aerosol,2,4690,9380,Villa Maria,2023-01-06,Limpieza
+34,2024-01-13,58,Karina Acosta,karina.acosta2@mail.com,transferencia,10,Yerba Mate Intensa 1kg,1,4883,4883,Rio Cuarto,2023-02-27,Alimentos
+34,2024-01-13,58,Karina Acosta,karina.acosta2@mail.com,transferencia,32,Chocolate Amargo 100g,5,2234,11170,Rio Cuarto,2023-02-27,Alimentos
+35,2024-05-30,61,Guadalupe Martinez,guadalupe.martinez@mail.com,efectivo,93,Cepillo de Dientes,3,2142,6426,Rio Cuarto,2023-03-02,Limpieza
+35,2024-05-30,61,Guadalupe Martinez,guadalupe.martinez@mail.com,efectivo,80,Helado de Frutilla 1L,2,1981,3962,Rio Cuarto,2023-03-02,Alimentos
+35,2024-05-30,61,Guadalupe Martinez,guadalupe.martinez@mail.com,efectivo,88,Caldo Concentrado Carne,5,2570,12850,Rio Cuarto,2023-03-02,Alimentos
+36,2024-06-25,5,Agustina Flores,agustina.flores@mail.com,tarjeta,50,Azúcar 1kg,4,727,2908,Cordoba,2023-01-05,Alimentos
+36,2024-06-25,5,Agustina Flores,agustina.flores@mail.com,tarjeta,48,Porotos Negros 500g,2,4462,8924,Cordoba,2023-01-05,Alimentos
+37,2024-05-17,57,Julian Acosta,julian.acosta@mail.com,qr,18,Queso Rallado 150g,3,3444,10332,Rio Cuarto,2023-02-26,Alimentos
+38,2024-05-29,56,Bruno Diaz,bruno.diaz@mail.com,tarjeta,62,Stevia 100 sobres,5,3848,19240,Rio Cuarto,2023-02-25,Alimentos
+38,2024-05-29,56,Bruno Diaz,bruno.diaz@mail.com,tarjeta,14,Leche Entera 1L,3,1723,5169,Rio Cuarto,2023-02-25,Alimentos
+38,2024-05-29,56,Bruno Diaz,bruno.diaz@mail.com,tarjeta,65,Cerveza Rubia 1L,5,2423,12115,Rio Cuarto,2023-02-25,Alimentos
+38,2024-05-29,56,Bruno Diaz,bruno.diaz@mail.com,tarjeta,5,Agua Mineral 500ml,3,4777,14331,Rio Cuarto,2023-02-25,Alimentos
+39,2024-03-05,5,Agustina Flores,agustina.flores@mail.com,efectivo,44,Arroz Largo Fino 1kg,4,2979,11916,Cordoba,2023-01-05,Alimentos
+39,2024-03-05,5,Agustina Flores,agustina.flores@mail.com,efectivo,22,Medialunas de Manteca,2,2069,4138,Cordoba,2023-01-05,Alimentos
+39,2024-03-05,5,Agustina Flores,agustina.flores@mail.com,efectivo,58,Caramelos Masticables,4,4752,19008,Cordoba,2023-01-05,Alimentos
+39,2024-03-05,5,Agustina Flores,agustina.flores@mail.com,efectivo,81,Aceitunas Verdes 200g,4,2520,10080,Cordoba,2023-01-05,Alimentos
+40,2024-05-13,15,Tomas Ruiz,tomas.ruiz@mail.com,efectivo,44,Arroz Largo Fino 1kg,2,2979,5958,Cordoba,2023-01-15,Alimentos
+41,2024-03-08,29,Diego Fernandez,diego.fernandez@mail.com,tarjeta,51,Sal Fina 500g,1,1745,1745,Alta Gracia,2023-01-29,Alimentos
+41,2024-03-08,29,Diego Fernandez,diego.fernandez@mail.com,tarjeta,15,Leche Descremada 1L,1,2538,2538,Alta Gracia,2023-01-29,Alimentos
+42,2024-04-18,12,Gael Gomez,gael.gomez@mail.com,tarjeta,47,Garbanzos 500g,3,2939,8817,Alta Gracia,2023-01-12,Alimentos
+42,2024-04-18,12,Gael Gomez,gael.gomez@mail.com,tarjeta,29,Papas Fritas Onduladas 100g,1,1868,1868,Alta Gracia,2023-01-12,Alimentos
+42,2024-04-18,12,Gael Gomez,gael.gomez@mail.com,tarjeta,73,Gin 700ml,3,1561,4683,Alta Gracia,2023-01-12,Alimentos
+43,2024-02-18,23,Helena Fernandez,helena.fernandez@mail.com,efectivo,1,Coca Cola 1.5L,5,2347,11735,Rio Cuarto,2023-01-23,Alimentos
+43,2024-02-18,23,Helena Fernandez,helena.fernandez@mail.com,efectivo,49,Harina de Trigo 1kg,2,2512,5024,Rio Cuarto,2023-01-23,Alimentos
+43,2024-02-18,23,Helena Fernandez,helena.fernandez@mail.com,efectivo,66,Cerveza Negra 1L,2,1533,3066,Rio Cuarto,2023-01-23,Alimentos
+44,2024-02-21,21,Elena Rodriguez,elena.rodriguez@mail.com,efectivo,48,Porotos Negros 500g,1,4462,4462,Alta Gracia,2023-01-21,Alimentos
+44,2024-02-21,21,Elena Rodriguez,elena.rodriguez@mail.com,efectivo,47,Garbanzos 500g,2,2939,5878,Alta Gracia,2023-01-21,Alimentos
+44,2024-02-21,21,Elena Rodriguez,elena.rodriguez@mail.com,efectivo,100,Trapo de Piso,2,4854,9708,Alta Gracia,2023-01-21,Limpieza
+45,2024-01-19,15,Tomas Ruiz,tomas.ruiz@mail.com,efectivo,12,Té Negro 20 saquitos,2,570,1140,Cordoba,2023-01-15,Alimentos
+45,2024-01-19,15,Tomas Ruiz,tomas.ruiz@mail.com,efectivo,18,Queso Rallado 150g,2,3444,6888,Cordoba,2023-01-15,Alimentos
+45,2024-01-19,15,Tomas Ruiz,tomas.ruiz@mail.com,efectivo,87,Sopa Instantánea Pollo,4,1679,6716,Cordoba,2023-01-15,Alimentos
+45,2024-01-19,15,Tomas Ruiz,tomas.ruiz@mail.com,efectivo,98,Desengrasante 500ml,1,2843,2843,Cordoba,2023-01-15,Limpieza
+45,2024-01-19,15,Tomas Ruiz,tomas.ruiz@mail.com,efectivo,52,Detergente Líquido 750ml,2,2582,5164,Cordoba,2023-01-15,Limpieza
+46,2024-03-25,46,Agustina Martinez,agustina.martinez@mail.com,tarjeta,21,Pan Lactal Integral,1,272,272,Alta Gracia,2023-02-15,Alimentos
+47,2024-05-04,52,Diego Diaz,diego.diaz@mail.com,transferencia,43,Salsa de Tomate 500g,5,887,4435,Rio Cuarto,2023-02-21,Alimentos
+47,2024-05-04,52,Diego Diaz,diego.diaz@mail.com,transferencia,6,Jugo de Naranja 1L,3,4170,12510,Rio Cuarto,2023-02-21,Alimentos
+48,2024-01-26,84,Pablo Sanchez,pablo.sanchez@mail.com,qr,70,Fernet 750ml,1,4061,4061,Cordoba,2023-03-25,Alimentos
+48,2024-01-26,84,Pablo Sanchez,pablo.sanchez@mail.com,qr,54,Jabón de Tocador,5,1592,7960,Cordoba,2023-03-25,Limpieza
+48,2024-01-26,84,Pablo Sanchez,pablo.sanchez@mail.com,qr,57,Servilletas x100,4,4520,18080,Cordoba,2023-03-25,Limpieza
+49,2024-06-02,5,Agustina Flores,agustina.flores@mail.com,efectivo,59,Chicle Menta,2,3612,7224,Cordoba,2023-01-05,Alimentos
+49,2024-06-02,5,Agustina Flores,agustina.flores@mail.com,efectivo,21,Pan Lactal Integral,4,272,1088,Cordoba,2023-01-05,Alimentos
+49,2024-06-02,5,Agustina Flores,agustina.flores@mail.com,efectivo,59,Chicle Menta,4,3612,14448,Cordoba,2023-01-05,Alimentos
+49,2024-06-02,5,Agustina Flores,agustina.flores@mail.com,efectivo,18,Queso Rallado 150g,3,3444,10332,Cordoba,2023-01-05,Alimentos
+49,2024-06-02,5,Agustina Flores,agustina.flores@mail.com,efectivo,85,Jugo en Polvo Naranja,3,1856,5568,Cordoba,2023-01-05,Alimentos
+50,2024-01-09,8,Bruno Castro,bruno.castro@mail.com,transferencia,10,Yerba Mate Intensa 1kg,2,4883,9766,Carlos Paz,2023-01-08,Alimentos
+50,2024-01-09,8,Bruno Castro,bruno.castro@mail.com,transferencia,34,Turrón 50g,5,503,2515,Carlos Paz,2023-01-08,Alimentos
+50,2024-01-09,8,Bruno Castro,bruno.castro@mail.com,transferencia,58,Caramelos Masticables,5,4752,23760,Carlos Paz,2023-01-08,Alimentos
+50,2024-01-09,8,Bruno Castro,bruno.castro@mail.com,transferencia,32,Chocolate Amargo 100g,3,2234,6702,Carlos Paz,2023-01-08,Alimentos
+50,2024-01-09,8,Bruno Castro,bruno.castro@mail.com,transferencia,91,Desodorante Aerosol,4,4690,18760,Carlos Paz,2023-01-08,Limpieza
+51,2024-02-18,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,31,Mix de Frutos Secos 200g,1,3409,3409,Alta Gracia,2023-02-08,Alimentos
+52,2024-05-10,5,Agustina Flores,agustina.flores@mail.com,tarjeta,83,Queso Untable 190g,2,1830,3660,Cordoba,2023-01-05,Alimentos
+52,2024-05-10,5,Agustina Flores,agustina.flores@mail.com,tarjeta,9,Yerba Mate Suave 1kg,4,3878,15512,Cordoba,2023-01-05,Alimentos
+52,2024-05-10,5,Agustina Flores,agustina.flores@mail.com,tarjeta,81,Aceitunas Verdes 200g,5,2520,12600,Cordoba,2023-01-05,Alimentos
+52,2024-05-10,5,Agustina Flores,agustina.flores@mail.com,tarjeta,38,Mermelada de Frutilla 400g,3,1584,4752,Cordoba,2023-01-05,Alimentos
+53,2024-01-25,56,Bruno Diaz,bruno.diaz@mail.com,tarjeta,28,Papas Fritas Clásicas 100g,1,936,936,Rio Cuarto,2023-02-25,Alimentos
+54,2024-03-26,1,Mariana Lopez,mariana.lopez@mail.com,tarjeta,65,Cerveza Rubia 1L,1,2423,2423,Carlos Paz,2023-01-01,Alimentos
+54,2024-03-26,1,Mariana Lopez,mariana.lopez@mail.com,tarjeta,18,Queso Rallado 150g,2,3444,6888,Carlos Paz,2023-01-01,Alimentos
+54,2024-03-26,1,Mariana Lopez,mariana.lopez@mail.com,tarjeta,91,Desodorante Aerosol,3,4690,14070,Carlos Paz,2023-01-01,Limpieza
+54,2024-03-26,1,Mariana Lopez,mariana.lopez@mail.com,tarjeta,8,Energética Nitro 500ml,3,4218,12654,Carlos Paz,2023-01-01,Alimentos
+55,2024-01-04,100,Agustina Lopez,agustina.lopez@mail.com,qr,39,Helado Vainilla 1L,4,469,1876,Cordoba,2023-04-10,Alimentos
+56,2024-06-14,15,Tomas Ruiz,tomas.ruiz@mail.com,qr,18,Queso Rallado 150g,5,3444,17220,Cordoba,2023-01-15,Alimentos
+57,2024-01-10,34,Bruno Castro,bruno.castro2@mail.com,efectivo,31,Mix de Frutos Secos 200g,3,3409,10227,Villa Maria,2023-02-03,Alimentos
+57,2024-01-10,34,Bruno Castro,bruno.castro2@mail.com,efectivo,41,Aceite de Girasol 1L,4,860,3440,Villa Maria,2023-02-03,Alimentos
+57,2024-01-10,34,Bruno Castro,bruno.castro2@mail.com,efectivo,9,Yerba Mate Suave 1kg,5,3878,19390,Villa Maria,2023-02-03,Alimentos
+57,2024-01-10,34,Bruno Castro,bruno.castro2@mail.com,efectivo,76,Pizza Congelada Muzzarella,3,4286,12858,Villa Maria,2023-02-03,Alimentos
+57,2024-01-10,34,Bruno Castro,bruno.castro2@mail.com,efectivo,98,Desengrasante 500ml,4,2843,11372,Villa Maria,2023-02-03,Limpieza
+58,2024-02-04,48,Rocio Alvarez,rocio.alvarez@mail.com,transferencia,43,Salsa de Tomate 500g,2,887,1774,Cordoba,2023-02-17,Alimentos
+58,2024-02-04,48,Rocio Alvarez,rocio.alvarez@mail.com,transferencia,11,Café Molido 250g,1,2053,2053,Cordoba,2023-02-17,Alimentos
+59,2024-04-28,62,Guadalupe Romero,guadalupe.romero@mail.com,tarjeta,31,Mix de Frutos Secos 200g,1,3409,3409,Carlos Paz,2023-03-03,Alimentos
+59,2024-04-28,62,Guadalupe Romero,guadalupe.romero@mail.com,tarjeta,8,Energética Nitro 500ml,2,4218,8436,Carlos Paz,2023-03-03,Alimentos
+59,2024-04-28,62,Guadalupe Romero,guadalupe.romero@mail.com,tarjeta,97,Limpiavidrios 500ml,5,872,4360,Carlos Paz,2023-03-03,Limpieza
+60,2024-04-04,81,Camila Ruiz,camila.ruiz@mail.com,transferencia,43,Salsa de Tomate 500g,1,887,887,Carlos Paz,2023-03-22,Alimentos
+60,2024-04-04,81,Camila Ruiz,camila.ruiz@mail.com,transferencia,98,Desengrasante 500ml,3,2843,8529,Carlos Paz,2023-03-22,Limpieza
+60,2024-04-04,81,Camila Ruiz,camila.ruiz@mail.com,transferencia,15,Leche Descremada 1L,1,2538,2538,Carlos Paz,2023-03-22,Alimentos
+60,2024-04-04,81,Camila Ruiz,camila.ruiz@mail.com,transferencia,21,Pan Lactal Integral,2,272,544,Carlos Paz,2023-03-22,Alimentos
+60,2024-04-04,81,Camila Ruiz,camila.ruiz@mail.com,transferencia,91,Desodorante Aerosol,4,4690,18760,Carlos Paz,2023-03-22,Limpieza
+61,2024-06-01,27,Tomas Castro,tomas.castro@mail.com,efectivo,9,Yerba Mate Suave 1kg,3,3878,11634,Rio Cuarto,2023-01-27,Alimentos
+61,2024-06-01,27,Tomas Castro,tomas.castro@mail.com,efectivo,19,Manteca 200g,3,3251,9753,Rio Cuarto,2023-01-27,Alimentos
+62,2024-05-01,100,Agustina Lopez,agustina.lopez@mail.com,transferencia,47,Garbanzos 500g,4,2939,11756,Cordoba,2023-04-10,Alimentos
+62,2024-05-01,100,Agustina Lopez,agustina.lopez@mail.com,transferencia,95,Mascarilla Capilar,3,1581,4743,Cordoba,2023-04-10,Limpieza
+63,2024-06-19,25,Karina Castro,karina.castro@mail.com,tarjeta,8,Energética Nitro 500ml,5,4218,21090,Rio Cuarto,2023-01-25,Alimentos
+63,2024-06-19,25,Karina Castro,karina.castro@mail.com,tarjeta,2,Pepsi 1.5L,2,4973,9946,Rio Cuarto,2023-01-25,Alimentos
+63,2024-06-19,25,Karina Castro,karina.castro@mail.com,tarjeta,70,Fernet 750ml,3,4061,12183,Rio Cuarto,2023-01-25,Alimentos
+63,2024-06-19,25,Karina Castro,karina.castro@mail.com,tarjeta,45,Fideos Spaghetti 500g,4,745,2980,Rio Cuarto,2023-01-25,Alimentos
+64,2024-03-07,58,Karina Acosta,karina.acosta2@mail.com,qr,4,Fanta Naranja 1.5L,2,2033,4066,Rio Cuarto,2023-02-27,Alimentos
+64,2024-03-07,58,Karina Acosta,karina.acosta2@mail.com,qr,41,Aceite de Girasol 1L,2,860,1720,Rio Cuarto,2023-02-27,Alimentos
+65,2024-04-30,30,Ivana Medina,ivana.medina@mail.com,qr,77,Empanadas Congeladas,4,4778,19112,Alta Gracia,2023-01-30,Alimentos
+65,2024-04-30,30,Ivana Medina,ivana.medina@mail.com,qr,22,Medialunas de Manteca,3,2069,6207,Alta Gracia,2023-01-30,Alimentos
+65,2024-04-30,30,Ivana Medina,ivana.medina@mail.com,qr,38,Mermelada de Frutilla 400g,5,1584,7920,Alta Gracia,2023-01-30,Alimentos
+65,2024-04-30,30,Ivana Medina,ivana.medina@mail.com,qr,36,Dulce de Leche 400g,4,2559,10236,Alta Gracia,2023-01-30,Alimentos
+66,2024-03-14,69,Felipe Flores,felipe.flores@mail.com,qr,16,Yogur Natural 200g,3,4613,13839,Rio Cuarto,2023-03-10,Alimentos
+67,2024-03-21,66,Tomas Herrera,tomas.herrera@mail.com,efectivo,53,Lavandina 1L,1,1664,1664,Villa Maria,2023-03-07,Limpieza
+67,2024-03-21,66,Tomas Herrera,tomas.herrera@mail.com,efectivo,8,Energética Nitro 500ml,2,4218,8436,Villa Maria,2023-03-07,Alimentos
+68,2024-06-28,27,Tomas Castro,tomas.castro@mail.com,qr,94,Hilo Dental,4,1418,5672,Rio Cuarto,2023-01-27,Limpieza
+69,2024-01-06,42,Tomas Flores,tomas.flores@mail.com,qr,76,Pizza Congelada Muzzarella,4,4286,17144,Alta Gracia,2023-02-11,Alimentos
+69,2024-01-06,42,Tomas Flores,tomas.flores@mail.com,qr,74,Whisky 750ml,3,2953,8859,Alta Gracia,2023-02-11,Alimentos
+70,2024-02-02,41,Elena Rodriguez,elena.rodriguez2@mail.com,transferencia,66,Cerveza Negra 1L,3,1533,4599,Alta Gracia,2023-02-10,Alimentos
+70,2024-02-02,41,Elena Rodriguez,elena.rodriguez2@mail.com,transferencia,89,Caldo Concentrado Verdura,4,1003,4012,Alta Gracia,2023-02-10,Alimentos
+70,2024-02-02,41,Elena Rodriguez,elena.rodriguez2@mail.com,transferencia,38,Mermelada de Frutilla 400g,3,1584,4752,Alta Gracia,2023-02-10,Alimentos
+71,2024-06-02,40,Felipe Diaz,felipe.diaz@mail.com,qr,11,Café Molido 250g,3,2053,6159,Rio Cuarto,2023-02-09,Alimentos
+71,2024-06-02,40,Felipe Diaz,felipe.diaz@mail.com,qr,79,Hamburguesas Congeladas x4,4,2420,9680,Rio Cuarto,2023-02-09,Alimentos
+71,2024-06-02,40,Felipe Diaz,felipe.diaz@mail.com,qr,100,Trapo de Piso,4,4854,19416,Rio Cuarto,2023-02-09,Limpieza
+71,2024-06-02,40,Felipe Diaz,felipe.diaz@mail.com,qr,92,Crema Dental 90g,1,2512,2512,Rio Cuarto,2023-02-09,Limpieza
+72,2024-02-17,26,Camila Sanchez,camila.sanchez@mail.com,qr,94,Hilo Dental,3,1418,4254,Alta Gracia,2023-01-26,Limpieza
+72,2024-02-17,26,Camila Sanchez,camila.sanchez@mail.com,qr,41,Aceite de Girasol 1L,4,860,3440,Alta Gracia,2023-01-26,Alimentos
+72,2024-02-17,26,Camila Sanchez,camila.sanchez@mail.com,qr,51,Sal Fina 500g,2,1745,3490,Alta Gracia,2023-01-26,Alimentos
+73,2024-05-16,42,Tomas Flores,tomas.flores@mail.com,transferencia,28,Papas Fritas Clásicas 100g,1,936,936,Alta Gracia,2023-02-11,Alimentos
+73,2024-05-16,42,Tomas Flores,tomas.flores@mail.com,transferencia,24,Galletitas Chocolate,3,1305,3915,Alta Gracia,2023-02-11,Alimentos
+73,2024-05-16,42,Tomas Flores,tomas.flores@mail.com,transferencia,19,Manteca 200g,1,3251,3251,Alta Gracia,2023-02-11,Alimentos
+74,2024-04-26,56,Bruno Diaz,bruno.diaz@mail.com,efectivo,32,Chocolate Amargo 100g,3,2234,6702,Rio Cuarto,2023-02-25,Alimentos
+74,2024-04-26,56,Bruno Diaz,bruno.diaz@mail.com,efectivo,14,Leche Entera 1L,2,1723,3446,Rio Cuarto,2023-02-25,Alimentos
+74,2024-04-26,56,Bruno Diaz,bruno.diaz@mail.com,efectivo,55,Shampoo 400ml,2,1407,2814,Rio Cuarto,2023-02-25,Limpieza
+75,2024-05-23,61,Guadalupe Martinez,guadalupe.martinez@mail.com,qr,3,Sprite 1.5L,4,4964,19856,Rio Cuarto,2023-03-02,Alimentos
+75,2024-05-23,61,Guadalupe Martinez,guadalupe.martinez@mail.com,qr,2,Pepsi 1.5L,5,4973,24865,Rio Cuarto,2023-03-02,Alimentos
+76,2024-05-15,75,Santiago Castro,santiago.castro@mail.com,tarjeta,22,Medialunas de Manteca,4,2069,8276,Rio Cuarto,2023-03-16,Alimentos
+76,2024-05-15,75,Santiago Castro,santiago.castro@mail.com,tarjeta,23,Bizcochos Salados,4,2380,9520,Rio Cuarto,2023-03-16,Alimentos
+76,2024-05-15,75,Santiago Castro,santiago.castro@mail.com,tarjeta,24,Galletitas Chocolate,1,1305,1305,Rio Cuarto,2023-03-16,Alimentos
+76,2024-05-15,75,Santiago Castro,santiago.castro@mail.com,tarjeta,11,Café Molido 250g,2,2053,4106,Rio Cuarto,2023-03-16,Alimentos
+77,2024-05-26,55,Olivia Ruiz,olivia.ruiz@mail.com,tarjeta,53,Lavandina 1L,2,1664,3328,Mendiolaza,2023-02-24,Limpieza
+77,2024-05-26,55,Olivia Ruiz,olivia.ruiz@mail.com,tarjeta,41,Aceite de Girasol 1L,1,860,860,Mendiolaza,2023-02-24,Alimentos
+77,2024-05-26,55,Olivia Ruiz,olivia.ruiz@mail.com,tarjeta,34,Turrón 50g,5,503,2515,Mendiolaza,2023-02-24,Alimentos
+77,2024-05-26,55,Olivia Ruiz,olivia.ruiz@mail.com,tarjeta,98,Desengrasante 500ml,2,2843,5686,Mendiolaza,2023-02-24,Limpieza
+77,2024-05-26,55,Olivia Ruiz,olivia.ruiz@mail.com,tarjeta,39,Helado Vainilla 1L,2,469,938,Mendiolaza,2023-02-24,Alimentos
+78,2024-04-29,12,Gael Gomez,gael.gomez@mail.com,qr,37,Mermelada de Durazno 400g,3,3196,9588,Alta Gracia,2023-01-12,Alimentos
+78,2024-04-29,12,Gael Gomez,gael.gomez@mail.com,qr,79,Hamburguesas Congeladas x4,5,2420,12100,Alta Gracia,2023-01-12,Alimentos
+78,2024-04-29,12,Gael Gomez,gael.gomez@mail.com,qr,17,Queso Cremoso 500g,2,4834,9668,Alta Gracia,2023-01-12,Alimentos
+78,2024-04-29,12,Gael Gomez,gael.gomez@mail.com,qr,85,Jugo en Polvo Naranja,1,1856,1856,Alta Gracia,2023-01-12,Alimentos
+78,2024-04-29,12,Gael Gomez,gael.gomez@mail.com,qr,39,Helado Vainilla 1L,2,469,938,Alta Gracia,2023-01-12,Alimentos
+79,2024-06-06,57,Julian Acosta,julian.acosta@mail.com,qr,81,Aceitunas Verdes 200g,2,2520,5040,Rio Cuarto,2023-02-26,Alimentos
+79,2024-06-06,57,Julian Acosta,julian.acosta@mail.com,qr,56,Papel Higiénico x4,2,2532,5064,Rio Cuarto,2023-02-26,Limpieza
+80,2024-03-25,54,Uma Herrera,uma.herrera@mail.com,efectivo,39,Helado Vainilla 1L,5,469,2345,Alta Gracia,2023-02-23,Alimentos
+80,2024-03-25,54,Uma Herrera,uma.herrera@mail.com,efectivo,30,Maní Salado 200g,3,4875,14625,Alta Gracia,2023-02-23,Alimentos
+80,2024-03-25,54,Uma Herrera,uma.herrera@mail.com,efectivo,41,Aceite de Girasol 1L,5,860,4300,Alta Gracia,2023-02-23,Alimentos
+81,2024-03-09,49,Olivia Gomez,olivia.gomez@mail.com,transferencia,10,Yerba Mate Intensa 1kg,2,4883,9766,Rio Cuarto,2023-02-18,Alimentos
+82,2024-01-25,19,Uma Silva,uma.silva@mail.com,tarjeta,38,Mermelada de Frutilla 400g,1,1584,1584,Mendiolaza,2023-01-19,Alimentos
+82,2024-01-25,19,Uma Silva,uma.silva@mail.com,tarjeta,28,Papas Fritas Clásicas 100g,2,936,1872,Mendiolaza,2023-01-19,Alimentos
+82,2024-01-25,19,Uma Silva,uma.silva@mail.com,tarjeta,29,Papas Fritas Onduladas 100g,5,1868,9340,Mendiolaza,2023-01-19,Alimentos
+82,2024-01-25,19,Uma Silva,uma.silva@mail.com,tarjeta,82,Aceitunas Negras 200g,2,2394,4788,Mendiolaza,2023-01-19,Alimentos
+83,2024-05-28,91,Uma Sanchez,uma.sanchez@mail.com,efectivo,5,Agua Mineral 500ml,2,4777,9554,Mendiolaza,2023-04-01,Alimentos
+83,2024-05-28,91,Uma Sanchez,uma.sanchez@mail.com,efectivo,26,Alfajor Triple,2,1001,2002,Mendiolaza,2023-04-01,Alimentos
+83,2024-05-28,91,Uma Sanchez,uma.sanchez@mail.com,efectivo,73,Gin 700ml,5,1561,7805,Mendiolaza,2023-04-01,Alimentos
+83,2024-05-28,91,Uma Sanchez,uma.sanchez@mail.com,efectivo,51,Sal Fina 500g,2,1745,3490,Mendiolaza,2023-04-01,Alimentos
+84,2024-01-02,72,Camila Rodriguez,camila.rodriguez@mail.com,efectivo,83,Queso Untable 190g,5,1830,9150,Cordoba,2023-03-13,Alimentos
+84,2024-01-02,72,Camila Rodriguez,camila.rodriguez@mail.com,efectivo,76,Pizza Congelada Muzzarella,4,4286,17144,Cordoba,2023-03-13,Alimentos
+85,2024-01-23,42,Tomas Flores,tomas.flores@mail.com,transferencia,32,Chocolate Amargo 100g,4,2234,8936,Alta Gracia,2023-02-11,Alimentos
+85,2024-01-23,42,Tomas Flores,tomas.flores@mail.com,transferencia,80,Helado de Frutilla 1L,2,1981,3962,Alta Gracia,2023-02-11,Alimentos
+86,2024-01-10,40,Felipe Diaz,felipe.diaz@mail.com,efectivo,66,Cerveza Negra 1L,2,1533,3066,Rio Cuarto,2023-02-09,Alimentos
+86,2024-01-10,40,Felipe Diaz,felipe.diaz@mail.com,efectivo,1,Coca Cola 1.5L,4,2347,9388,Rio Cuarto,2023-02-09,Alimentos
+86,2024-01-10,40,Felipe Diaz,felipe.diaz@mail.com,efectivo,13,Té Verde 20 saquitos,5,2383,11915,Rio Cuarto,2023-02-09,Alimentos
+86,2024-01-10,40,Felipe Diaz,felipe.diaz@mail.com,efectivo,41,Aceite de Girasol 1L,3,860,2580,Rio Cuarto,2023-02-09,Alimentos
+87,2024-04-20,100,Agustina Lopez,agustina.lopez@mail.com,qr,53,Lavandina 1L,2,1664,3328,Cordoba,2023-04-10,Limpieza
+87,2024-04-20,100,Agustina Lopez,agustina.lopez@mail.com,qr,86,Jugo en Polvo Limón,2,4090,8180,Cordoba,2023-04-10,Alimentos
+88,2024-06-21,37,Martina Perez,martina.perez@mail.com,efectivo,7,Jugo de Manzana 1L,5,3269,16345,Mendiolaza,2023-02-06,Alimentos
+88,2024-06-21,37,Martina Perez,martina.perez@mail.com,efectivo,53,Lavandina 1L,5,1664,8320,Mendiolaza,2023-02-06,Limpieza
+88,2024-06-21,37,Martina Perez,martina.perez@mail.com,efectivo,8,Energética Nitro 500ml,4,4218,16872,Mendiolaza,2023-02-06,Alimentos
+89,2024-01-18,17,Pablo Gomez,pablo.gomez@mail.com,tarjeta,72,Ron 700ml,2,3876,7752,Villa Maria,2023-01-17,Alimentos
+90,2024-01-08,46,Agustina Martinez,agustina.martinez@mail.com,qr,79,Hamburguesas Congeladas x4,4,2420,9680,Alta Gracia,2023-02-15,Alimentos
+90,2024-01-08,46,Agustina Martinez,agustina.martinez@mail.com,qr,6,Jugo de Naranja 1L,2,4170,8340,Alta Gracia,2023-02-15,Alimentos
+91,2024-02-19,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,57,Servilletas x100,3,4520,13560,Alta Gracia,2023-02-08,Limpieza
+92,2024-02-09,42,Tomas Flores,tomas.flores@mail.com,transferencia,10,Yerba Mate Intensa 1kg,2,4883,9766,Alta Gracia,2023-02-11,Alimentos
+92,2024-02-09,42,Tomas Flores,tomas.flores@mail.com,transferencia,43,Salsa de Tomate 500g,4,887,3548,Alta Gracia,2023-02-11,Alimentos
+93,2024-01-29,90,Guadalupe Ruiz,guadalupe.ruiz@mail.com,efectivo,80,Helado de Frutilla 1L,4,1981,7924,Rio Cuarto,2023-03-31,Alimentos
+93,2024-01-29,90,Guadalupe Ruiz,guadalupe.ruiz@mail.com,efectivo,66,Cerveza Negra 1L,3,1533,4599,Rio Cuarto,2023-03-31,Alimentos
+93,2024-01-29,90,Guadalupe Ruiz,guadalupe.ruiz@mail.com,efectivo,91,Desodorante Aerosol,3,4690,14070,Rio Cuarto,2023-03-31,Limpieza
+94,2024-03-06,41,Elena Rodriguez,elena.rodriguez2@mail.com,qr,24,Galletitas Chocolate,1,1305,1305,Alta Gracia,2023-02-10,Alimentos
+94,2024-03-06,41,Elena Rodriguez,elena.rodriguez2@mail.com,qr,86,Jugo en Polvo Limón,5,4090,20450,Alta Gracia,2023-02-10,Alimentos
+94,2024-03-06,41,Elena Rodriguez,elena.rodriguez2@mail.com,qr,98,Desengrasante 500ml,2,2843,5686,Alta Gracia,2023-02-10,Limpieza
+95,2024-02-25,26,Camila Sanchez,camila.sanchez@mail.com,qr,72,Ron 700ml,5,3876,19380,Alta Gracia,2023-01-26,Alimentos
+95,2024-02-25,26,Camila Sanchez,camila.sanchez@mail.com,qr,12,Té Negro 20 saquitos,1,570,570,Alta Gracia,2023-01-26,Alimentos
+96,2024-02-23,83,Franco Gomez,franco.gomez@mail.com,tarjeta,81,Aceitunas Verdes 200g,3,2520,7560,Rio Cuarto,2023-03-24,Alimentos
+96,2024-02-23,83,Franco Gomez,franco.gomez@mail.com,tarjeta,68,Vino Blanco 750ml,1,2684,2684,Rio Cuarto,2023-03-24,Alimentos
+96,2024-02-23,83,Franco Gomez,franco.gomez@mail.com,tarjeta,11,Café Molido 250g,2,2053,4106,Rio Cuarto,2023-03-24,Alimentos
+96,2024-02-23,83,Franco Gomez,franco.gomez@mail.com,tarjeta,50,Azúcar 1kg,3,727,2181,Rio Cuarto,2023-03-24,Alimentos
+97,2024-06-16,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,59,Chicle Menta,5,3612,18060,Alta Gracia,2023-02-08,Alimentos
+97,2024-06-16,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,36,Dulce de Leche 400g,1,2559,2559,Alta Gracia,2023-02-08,Alimentos
+97,2024-06-16,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,4,Fanta Naranja 1.5L,3,2033,6099,Alta Gracia,2023-02-08,Alimentos
+98,2024-01-12,43,Lucas Perez,lucas.perez@mail.com,transferencia,28,Papas Fritas Clásicas 100g,4,936,3744,Mendiolaza,2023-02-12,Alimentos
+98,2024-01-12,43,Lucas Perez,lucas.perez@mail.com,transferencia,61,Miel Pura 250g,1,4982,4982,Mendiolaza,2023-02-12,Alimentos
+98,2024-01-12,43,Lucas Perez,lucas.perez@mail.com,transferencia,29,Papas Fritas Onduladas 100g,1,1868,1868,Mendiolaza,2023-02-12,Alimentos
+98,2024-01-12,43,Lucas Perez,lucas.perez@mail.com,transferencia,83,Queso Untable 190g,3,1830,5490,Mendiolaza,2023-02-12,Alimentos
+99,2024-03-13,51,Agustina Gomez,agustina.gomez@mail.com,transferencia,40,Helado Chocolate 1L,5,1215,6075,Rio Cuarto,2023-02-20,Alimentos
+100,2024-06-08,69,Felipe Flores,felipe.flores@mail.com,qr,13,Té Verde 20 saquitos,3,2383,7149,Rio Cuarto,2023-03-10,Alimentos
+100,2024-06-08,69,Felipe Flores,felipe.flores@mail.com,qr,18,Queso Rallado 150g,4,3444,13776,Rio Cuarto,2023-03-10,Alimentos
+100,2024-06-08,69,Felipe Flores,felipe.flores@mail.com,qr,58,Caramelos Masticables,2,4752,9504,Rio Cuarto,2023-03-10,Alimentos
+100,2024-06-08,69,Felipe Flores,felipe.flores@mail.com,qr,57,Servilletas x100,1,4520,4520,Rio Cuarto,2023-03-10,Limpieza
+100,2024-06-08,69,Felipe Flores,felipe.flores@mail.com,qr,9,Yerba Mate Suave 1kg,4,3878,15512,Rio Cuarto,2023-03-10,Alimentos
+101,2024-03-28,72,Camila Rodriguez,camila.rodriguez@mail.com,efectivo,34,Turrón 50g,4,503,2012,Cordoba,2023-03-13,Alimentos
+102,2024-03-29,18,Ivana Torres,ivana.torres@mail.com,efectivo,78,Verduras Congeladas Mix,3,4289,12867,Carlos Paz,2023-01-18,Alimentos
+102,2024-03-29,18,Ivana Torres,ivana.torres@mail.com,efectivo,36,Dulce de Leche 400g,3,2559,7677,Carlos Paz,2023-01-18,Alimentos
+103,2024-03-11,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,79,Hamburguesas Congeladas x4,5,2420,12100,Alta Gracia,2023-02-08,Alimentos
+103,2024-03-11,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,43,Salsa de Tomate 500g,5,887,4435,Alta Gracia,2023-02-08,Alimentos
+103,2024-03-11,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,34,Turrón 50g,1,503,503,Alta Gracia,2023-02-08,Alimentos
+103,2024-03-11,39,Santiago Diaz,santiago.diaz@mail.com,efectivo,70,Fernet 750ml,1,4061,4061,Alta Gracia,2023-02-08,Alimentos
+104,2024-06-17,86,Diego Torres,diego.torres@mail.com,qr,95,Mascarilla Capilar,2,1581,3162,Cordoba,2023-03-27,Limpieza
+104,2024-06-17,86,Diego Torres,diego.torres@mail.com,qr,68,Vino Blanco 750ml,3,2684,8052,Cordoba,2023-03-27,Alimentos
+104,2024-06-17,86,Diego Torres,diego.torres@mail.com,qr,68,Vino Blanco 750ml,5,2684,13420,Cordoba,2023-03-27,Alimentos
+105,2024-02-06,1,Mariana Lopez,mariana.lopez@mail.com,transferencia,13,Té Verde 20 saquitos,2,2383,4766,Carlos Paz,2023-01-01,Alimentos
+105,2024-02-06,1,Mariana Lopez,mariana.lopez@mail.com,transferencia,4,Fanta Naranja 1.5L,4,2033,8132,Carlos Paz,2023-01-01,Alimentos
+105,2024-02-06,1,Mariana Lopez,mariana.lopez@mail.com,transferencia,58,Caramelos Masticables,2,4752,9504,Carlos Paz,2023-01-01,Alimentos
+105,2024-02-06,1,Mariana Lopez,mariana.lopez@mail.com,transferencia,82,Aceitunas Negras 200g,4,2394,9576,Carlos Paz,2023-01-01,Alimentos
+105,2024-02-06,1,Mariana Lopez,mariana.lopez@mail.com,transferencia,43,Salsa de Tomate 500g,5,887,4435,Carlos Paz,2023-01-01,Alimentos
+106,2024-03-24,82,Lucas Lopez,lucas.lopez@mail.com,transferencia,88,Caldo Concentrado Carne,3,2570,7710,Alta Gracia,2023-03-23,Alimentos
+107,2024-05-21,14,Gael Martinez,gael.martinez@mail.com,efectivo,7,Jugo de Manzana 1L,4,3269,13076,Carlos Paz,2023-01-14,Alimentos
+107,2024-05-21,14,Gael Martinez,gael.martinez@mail.com,efectivo,11,Café Molido 250g,2,2053,4106,Carlos Paz,2023-01-14,Alimentos
+107,2024-05-21,14,Gael Martinez,gael.martinez@mail.com,efectivo,12,Té Negro 20 saquitos,4,570,2280,Carlos Paz,2023-01-14,Alimentos
+107,2024-05-21,14,Gael Martinez,gael.martinez@mail.com,efectivo,5,Agua Mineral 500ml,4,4777,19108,Carlos Paz,2023-01-14,Alimentos
+108,2024-03-25,9,Yamila Molina,yamila.molina@mail.com,tarjeta,90,Toallas Húmedas x50,4,2902,11608,Carlos Paz,2023-01-09,Limpieza
+109,2024-06-04,64,Julian Alvarez,julian.alvarez@mail.com,transferencia,18,Queso Rallado 150g,1,3444,3444,Villa Maria,2023-03-05,Alimentos
+109,2024-06-04,64,Julian Alvarez,julian.alvarez@mail.com,transferencia,74,Whisky 750ml,1,2953,2953,Villa Maria,2023-03-05,Alimentos
+109,2024-06-04,64,Julian Alvarez,julian.alvarez@mail.com,transferencia,20,Pan Lactal Blanco,2,1571,3142,Villa Maria,2023-03-05,Alimentos
+109,2024-06-04,64,Julian Alvarez,julian.alvarez@mail.com,transferencia,44,Arroz Largo Fino 1kg,5,2979,14895,Villa Maria,2023-03-05,Alimentos
+110,2024-05-19,92,Mariana Rodriguez,mariana.rodriguez@mail.com,efectivo,6,Jugo de Naranja 1L,1,4170,4170,Alta Gracia,2023-04-02,Alimentos
+110,2024-05-19,92,Mariana Rodriguez,mariana.rodriguez@mail.com,efectivo,59,Chicle Menta,3,3612,10836,Alta Gracia,2023-04-02,Alimentos
+110,2024-05-19,92,Mariana Rodriguez,mariana.rodriguez@mail.com,efectivo,6,Jugo de Naranja 1L,5,4170,20850,Alta Gracia,2023-04-02,Alimentos
+111,2024-02-12,48,Rocio Alvarez,rocio.alvarez@mail.com,efectivo,97,Limpiavidrios 500ml,4,872,3488,Cordoba,2023-02-17,Limpieza
+111,2024-02-12,48,Rocio Alvarez,rocio.alvarez@mail.com,efectivo,93,Cepillo de Dientes,3,2142,6426,Cordoba,2023-02-17,Limpieza
+111,2024-02-12,48,Rocio Alvarez,rocio.alvarez@mail.com,efectivo,20,Pan Lactal Blanco,2,1571,3142,Cordoba,2023-02-17,Alimentos
+111,2024-02-12,48,Rocio Alvarez,rocio.alvarez@mail.com,efectivo,23,Bizcochos Salados,4,2380,9520,Cordoba,2023-02-17,Alimentos
+112,2024-01-19,28,Rocio Silva,rocio.silva@mail.com,tarjeta,55,Shampoo 400ml,1,1407,1407,Cordoba,2023-01-28,Limpieza
+112,2024-01-19,28,Rocio Silva,rocio.silva@mail.com,tarjeta,21,Pan Lactal Integral,4,272,1088,Cordoba,2023-01-28,Alimentos
+112,2024-01-19,28,Rocio Silva,rocio.silva@mail.com,tarjeta,43,Salsa de Tomate 500g,5,887,4435,Cordoba,2023-01-28,Alimentos
+112,2024-01-19,28,Rocio Silva,rocio.silva@mail.com,tarjeta,13,Té Verde 20 saquitos,2,2383,4766,Cordoba,2023-01-28,Alimentos
+112,2024-01-19,28,Rocio Silva,rocio.silva@mail.com,tarjeta,59,Chicle Menta,1,3612,3612,Cordoba,2023-01-28,Alimentos
+113,2024-03-08,98,Camila Castro,camila.castro@mail.com,transferencia,53,Lavandina 1L,2,1664,3328,Cordoba,2023-04-08,Limpieza
+113,2024-03-08,98,Camila Castro,camila.castro@mail.com,transferencia,92,Crema Dental 90g,3,2512,7536,Cordoba,2023-04-08,Limpieza
+114,2024-05-05,16,Felipe Alvarez,felipe.alvarez@mail.com,qr,8,Energética Nitro 500ml,1,4218,4218,Rio Cuarto,2023-01-16,Alimentos
+114,2024-05-05,16,Felipe Alvarez,felipe.alvarez@mail.com,qr,84,Queso Azul 150g,1,1645,1645,Rio Cuarto,2023-01-16,Alimentos
+114,2024-05-05,16,Felipe Alvarez,felipe.alvarez@mail.com,qr,10,Yerba Mate Intensa 1kg,1,4883,4883,Rio Cuarto,2023-01-16,Alimentos
+114,2024-05-05,16,Felipe Alvarez,felipe.alvarez@mail.com,qr,55,Shampoo 400ml,5,1407,7035,Rio Cuarto,2023-01-16,Limpieza
+114,2024-05-05,16,Felipe Alvarez,felipe.alvarez@mail.com,qr,92,Crema Dental 90g,4,2512,10048,Rio Cuarto,2023-01-16,Limpieza
+115,2024-02-16,3,Hernan Martinez,hernan.martinez@mail.com,transferencia,17,Queso Cremoso 500g,4,4834,19336,Rio Cuarto,2023-01-03,Alimentos
+115,2024-02-16,3,Hernan Martinez,hernan.martinez@mail.com,transferencia,97,Limpiavidrios 500ml,5,872,4360,Rio Cuarto,2023-01-03,Limpieza
+115,2024-02-16,3,Hernan Martinez,hernan.martinez@mail.com,transferencia,95,Mascarilla Capilar,4,1581,6324,Rio Cuarto,2023-01-03,Limpieza
+115,2024-02-16,3,Hernan Martinez,hernan.martinez@mail.com,transferencia,84,Queso Azul 150g,2,1645,3290,Rio Cuarto,2023-01-03,Alimentos
+116,2024-03-18,25,Karina Castro,karina.castro@mail.com,qr,65,Cerveza Rubia 1L,1,2423,2423,Rio Cuarto,2023-01-25,Alimentos
+116,2024-03-18,25,Karina Castro,karina.castro@mail.com,qr,35,Barrita de Cereal 30g,2,4430,8860,Rio Cuarto,2023-01-25,Alimentos
+116,2024-03-18,25,Karina Castro,karina.castro@mail.com,qr,42,Vinagre de Alcohol 500ml,4,1195,4780,Rio Cuarto,2023-01-25,Alimentos
+116,2024-03-18,25,Karina Castro,karina.castro@mail.com,qr,54,Jabón de Tocador,5,1592,7960,Rio Cuarto,2023-01-25,Limpieza
+116,2024-03-18,25,Karina Castro,karina.castro@mail.com,qr,90,Toallas Húmedas x50,4,2902,11608,Rio Cuarto,2023-01-25,Limpieza
+117,2024-03-14,72,Camila Rodriguez,camila.rodriguez@mail.com,tarjeta,67,Vino Tinto Malbec 750ml,4,4719,18876,Cordoba,2023-03-13,Alimentos
+117,2024-03-14,72,Camila Rodriguez,camila.rodriguez@mail.com,tarjeta,61,Miel Pura 250g,2,4982,9964,Cordoba,2023-03-13,Alimentos
+118,2024-02-09,84,Pablo Sanchez,pablo.sanchez@mail.com,efectivo,68,Vino Blanco 750ml,5,2684,13420,Cordoba,2023-03-25,Alimentos
+118,2024-02-09,84,Pablo Sanchez,pablo.sanchez@mail.com,efectivo,68,Vino Blanco 750ml,3,2684,8052,Cordoba,2023-03-25,Alimentos
+118,2024-02-09,84,Pablo Sanchez,pablo.sanchez@mail.com,efectivo,70,Fernet 750ml,2,4061,8122,Cordoba,2023-03-25,Alimentos
+118,2024-02-09,84,Pablo Sanchez,pablo.sanchez@mail.com,efectivo,93,Cepillo de Dientes,3,2142,6426,Cordoba,2023-03-25,Limpieza
+118,2024-02-09,84,Pablo Sanchez,pablo.sanchez@mail.com,efectivo,50,Azúcar 1kg,2,727,1454,Cordoba,2023-03-25,Alimentos
+119,2024-02-07,51,Agustina Gomez,agustina.gomez@mail.com,qr,45,Fideos Spaghetti 500g,5,745,3725,Rio Cuarto,2023-02-20,Alimentos
+120,2024-04-21,72,Camila Rodriguez,camila.rodriguez@mail.com,tarjeta,20,Pan Lactal Blanco,5,1571,7855,Cordoba,2023-03-13,Alimentos
